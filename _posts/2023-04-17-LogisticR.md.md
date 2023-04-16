@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "로지스틱 회귀 분석 정리"
+published: true
 ---
 
 **Python을 사용한 로지스틱 회귀 분석 분류기 자습서**
